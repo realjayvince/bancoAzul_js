@@ -31,3 +31,7 @@
 //     Ex: `R$ 1500.45`
 // - Se não houver movimentações, mostrar:
 //     `Não foram realizadas movimentações.`
+
+// ### Requisitos Técnicos de Implementação
+// - Use **JavaScript** .
+// - Os dados podem ser armazenados **em memória** (não é necessário banco de dados).
